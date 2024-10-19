@@ -1,0 +1,3 @@
+#include "Window.h"
+
+DMU_ICON ICON Icon1.ico
